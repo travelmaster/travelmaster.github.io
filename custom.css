@@ -1,0 +1,14 @@
+.my-jumbotron-background{
+    background-image: url("background1.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    padding-top: 50
+}
+
+.navbar-brand{
+    line-height: 150px;
+    height: 150px;
+    padding-top: 10;
+}
+
